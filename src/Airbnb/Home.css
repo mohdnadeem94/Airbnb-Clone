@@ -1,0 +1,10 @@
+.home_section {
+  display: flex;
+  padding: 30px;
+}
+
+/* @media screen and (min-width: 768px) {
+  .home_section {
+    grid-template-columns: repeat(3, 1fr);
+  }
+} */
